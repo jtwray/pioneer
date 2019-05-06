@@ -1,1 +1,1 @@
-web: gunicorn pionnerApp.wsgi
+web: gunicorn weather.wsgi
