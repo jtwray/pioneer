@@ -19,3 +19,6 @@ more specifically: solar irradiance, wind speed watertable, geothermal activity.
   the weather app calls on an api to return current temp, cloud cover and precipitation dependent upon city or zip code.
   
   
+this is a folder on google drive that contains work on the project as well as a screenshot of the in depth application i submitted to the Pioneer tournament
+
+https://drive.google.com/file/d/1Vh8YCUG7jjmH_e0AqWDGooy6m8F-EBCL/view?usp=sharing
