@@ -1,9 +1,9 @@
 # pioneer
 this is a project i originally came up with as an entry into the Pioneer Competition in hopes of placing in the top five among participants who attended Lambda School of Coputer Science and Web Development.
-A placement in the top five would have secured me living stipends for the remainder of my time at Lambda School allowing me to leave my fulltime position at the automotive transimission plant and focus on Lambda curriculum 40+ hrs per week for 6 months rather than th 12-14 month parttime program i am enrolled in.
+A placement in the top five would have secured me living stipends for the remainder of my time at Lambda School allowing me to leave my fulltime position at the automotive transmission plant and focus on Lambda curriculum 40+ hrs per week for 6 months rather than th 12-14 month parttime program i am enrolled in.
 Unfortunately i succumbed to the time clock and became disqualified for a late update entry on the 4th week of 4. 
 
-All that said, i stil lthink this is a cool project and worth further effort.
+All that said, i still think this is a cool project and worth further effort.
 
 so TLDR competition project. didnt win. 
 
